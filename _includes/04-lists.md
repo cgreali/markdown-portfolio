@@ -1,1 +1,6 @@
-Replace this with a list of your favorite things.
+# List of Favourite songs
+
+* Singles
+* Albums
+  * Abba Gold
+  * Rumors
